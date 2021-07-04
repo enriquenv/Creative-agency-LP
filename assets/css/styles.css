@@ -48,6 +48,7 @@ header nav ul li a:hover {
 header>p {
     padding-top: 10px;
     margin-left: 1%;
+    margin-top: 0;
     letter-spacing: .5em;
 }
 
